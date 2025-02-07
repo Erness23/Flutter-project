@@ -161,10 +161,6 @@ Push to GitHub (git push origin feature/your-feature-name).
 
 Create a Pull Request for review.
 
-📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 📧 Contact
 
 For any questions or suggestions, feel free to open an issue in the repository or reach out via email at [kamuiruernest@gmail.com].
